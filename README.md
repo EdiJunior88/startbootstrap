@@ -1,7 +1,5 @@
 # Start Bootstrap
 
-A library of open source, free to download, MIT licensed website themes and template based on [Bootstrap](https://getbootstrap.com/). All of the templates and themes featured on Start Bootstrap are up to date for Bootstrap 4!
-
 Uma biblioteca de código aberto, gratuitamente para baixar temas e modelo de site licenciados pelo MIT com base em [Bootstrap](https://getbootstrap.com/). Todos os modelos e temas apresentados no Start Bootstrap estão atualizados para o Bootstrap 4!
 
 Para mais informações, visite o site em <https://startbootstrap.com>.
