@@ -2,15 +2,17 @@
 
 A library of open source, free to download, MIT licensed website themes and template based on [Bootstrap](https://getbootstrap.com/). All of the templates and themes featured on Start Bootstrap are up to date for Bootstrap 4!
 
-For more information please visit the website at <https://startbootstrap.com>.
+Uma biblioteca de código aberto, gratuitamente para baixar temas e modelo de site licenciados pelo MIT com base em [Bootstrap](https://getbootstrap.com/). Todos os modelos e temas apresentados no Start Bootstrap estão atualizados para o Bootstrap 4!
 
-## Themes
+Para mais informações, visite o site em <https://startbootstrap.com>.
 
-- [**Agency**](https://startbootstrap.com/themes/agency/) - A one page agency theme.
-- [**Business Casual**](https://startbootstrap.com/themes/business-casual/) - A fully developed business website.
-- [**Clean Blog**](https://startbootstrap.com/themes/clean-blog/) - A clean blog theme.
-- [**Clean Blog - Jekyll**](https://startbootstrap.com/themes/clean-blog-jekyll/) - A clean blog theme.
-- [**Coming Soon**](https://startbootstrap.com/themes/coming-soon/) - A coming soon theme.
+## Temas
+
+- [**Agency**](https://startbootstrap.com/themes/agency/) - Uma página sobre o tema agência
+- [**Business Casual**](https://startbootstrap.com/themes/business-casual/) - Um tema totalmente desenvolvido sobre site de negócios.
+- [**Clean Blog**](https://startbootstrap.com/themes/clean-blog/) - Um tema de blog totalmente limpo.
+- [**Clean Blog - Jekyll**](https://startbootstrap.com/themes/clean-blog-jekyll/) - Um tema de blog totalmente limpo.
+- [**Coming Soon**](https://startbootstrap.com/themes/coming-soon/) - Em breve um tema.
 - [**Creative**](https://startbootstrap.com/themes/creative/) - A one page creative theme.
 - [**Freelancer**](https://startbootstrap.com/themes/freelancer/) - A one page freelancer theme.
 - [**Grayscale**](https://startbootstrap.com/themes/grayscale/) - A multipurpose one page theme.
